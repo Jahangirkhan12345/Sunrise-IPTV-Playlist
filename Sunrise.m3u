@@ -116,7 +116,8 @@ https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
  
 																		**Indian Bangla**
  
-
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXYpKKRjGrVPUqk-f-voE5LeRP9ADX_uGHbg&usqp=CAU" group-title="Indian Bangla",Akash Aath
+https://last.gcdn.co/IND396/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRplRD9IY6CQhf-knR6D52hdCmNLBp7bRPg&usqp=CAU" group-title="Indian Bangla",Sun Bangla
 https://last.gcdn.co/IND394/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha
