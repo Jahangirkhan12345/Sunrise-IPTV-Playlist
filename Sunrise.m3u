@@ -33,7 +33,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Bangladeshi",SATV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_Logo.png" group-title="Bangladeshi",BTV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3MKb96krHP66HxwgnWoxv8txpTMR287aLA&usqp=CAU" group-title="Bangladeshi",BTV
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="Bangladeshi",BTV World
 http://103.106.2.149:13456/btv_world.m3u8
@@ -51,7 +51,7 @@ https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
 http://rv.flysat.live:80/ams/ams123/83849
 #EXTINF:0 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Bangladeshi",Asian TV
 http://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcNIBknQF_os8-EWY381w3pBBSrwMBr7eHw&usqp=CAU" group-title="Bangladeshi",Desh Tv
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgJqEISwTuNG1qQZF6YhstHFKDxrQq05SNA&usqp=CAU" group-title="Bangladeshi",Desh Tv
 http://jupiter.bdcabletv.com/DeshTV/video.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="Bangladeshi",Banglavision
