@@ -15,7 +15,7 @@ http://103.77.188.27:1935/live/gtv/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" group-title="Bangladeshi",G TV 4
 http://103.40.226.94:8080/hls/channel_1.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" group-title="Bangladeshi",Siyatha TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hOVu9lRy8ojCvBoOOgRtMxKZDYUzWmhFAg&usqp=CAU" group-title="Bangladeshi",Siyatha TV
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" group-title="Bangladeshi",G TV 5
