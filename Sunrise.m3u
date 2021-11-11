@@ -155,11 +155,10 @@ https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/Sony8.m
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian Bangla",Jalsha Movies
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
-#EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Indian Bangla",Zee Bangla
+#EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Indian Bangla",Zee Bangla HD
 https://26gl.short.gy/ZeeBanglaHd-by-DoraTv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Indian Bangla",Zee Bangla HD
-http://mu03ye.wanicelife.com:8880/live/YALM4649/y6q3fhltq/55319.m3u8
-#http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7891
+#EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Indian Bangla",Zee Bangla 
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian Bangla",Zee Bangla Cinema
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
 #EXTINF:0 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="Indian Bangla",Colors Bangla
