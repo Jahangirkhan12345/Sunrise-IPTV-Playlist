@@ -225,11 +225,11 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580
                                                                  **Movie**
  
 
-#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="Movie",&xplorHD
+#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhkMBQPxkG_r4D-mc8BZmmgq3KI32mTmFMA&usqp=CAU" group-title="Movie",&xplorHD
 https://snehz5tv.herokuapp.com?c=0-9-209
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png" group-title="Movie",&Pictures HD
 https://snehz5tv.herokuapp.com?c=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="0-9-privéhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-privéhd/list/386x386/09privhdprivehd.png" group-title="Movie",&Prive HD
+#EXTINF:-1 tvg-id="0-9-privéhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDU2gYlr2JGfVyPdZPKTEEv-yDQsN9UzPRlw&usqp=CAU" group-title="Movie",&Prive HD
 https://snehz5tv.herokuapp.com?c=0-9-privehd
 #EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="Movie",Zee Café HD
 https://snehz5tv.herokuapp.com?c=0-9-zeecafehd
@@ -237,7 +237,7 @@ https://snehz5tv.herokuapp.com?c=0-9-zeecafehd
 https://snehz5tv.herokuapp.com?c=0-9-pictures
 #EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/386x386/09zingzing.png" group-title="Movie",Zing
 https://snehz5tv.herokuapp.com?c=0-9-zing
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" group-title="Movie",&flix
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsSjSGRZFWOi8eGMU4eCBLLLt57vV8C6H08A&usqp=CAU" group-title="Movie",&flix
 https://snehz5tv.herokuapp.com?c=0-9-channel_2105335046
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="Movie",HBO
 #https://gratismkctv.net/film/hbo.m3u8
@@ -247,7 +247,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0P8mgs.jpg" group-title="Movie",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="Movie",Star Movies Select
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJZAN2OYwj0qj68srMLXlZJ_o9hEFgvLuiZw&usqp=CAU" group-title="Movie",Star Movies Select
 http://103.153.39.34:8000/play/a04g/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Movie",HBO+ Plus
 http://213.151.233.20:8000/dna-6129-tv-pc/hls/4001v102.m3u8
