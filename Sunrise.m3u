@@ -222,56 +222,71 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580
 
 										
 																		 
-                                                                 **English Movie**
+                                                                 **Movie**
  
 
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="English Movie",HBO
+#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="Movie",&xplorHD
+https://snehz5tv.herokuapp.com?c=0-9-209
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png" group-title="Movie",&Pictures HD
+https://snehz5tv.herokuapp.com?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="0-9-privéhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-privéhd/list/386x386/09privhdprivehd.png" group-title="Movie",&Prive HD
+https://snehz5tv.herokuapp.com?c=0-9-privehd
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="Movie",Zee Café HD
+https://snehz5tv.herokuapp.com?c=0-9-zeecafehd
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="Movie",&Pictures
+https://snehz5tv.herokuapp.com?c=0-9-pictures
+#EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/386x386/09zingzing.png" group-title="Movie",Zing
+https://snehz5tv.herokuapp.com?c=0-9-zing
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" group-title="Movie",&flix
+https://snehz5tv.herokuapp.com?c=0-9-channel_2105335046
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="Movie",HBO
 #https://gratismkctv.net/film/hbo.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movie",Sony Pix
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movie",Sony Pix
 #http://mu03ye.wanicelife.com:8880/YALM4649/y6q3fhltq/1933
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y0P8mgs.jpg" group-title="English Movie",Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0P8mgs.jpg" group-title="Movie",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="English Movie",Star Movies Select
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="Movie",Star Movies Select
 http://103.153.39.34:8000/play/a04g/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="English Movie",HBO+ Plus
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Movie",HBO+ Plus
 http://213.151.233.20:8000/dna-6129-tv-pc/hls/4001v102.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkq0SByXJkpq6hbEutCdBJUPwzaQKyzkN9Kg&usqp=CAU" group-title="English Movie",HBO Family
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkq0SByXJkpq6hbEutCdBJUPwzaQKyzkN9Kg&usqp=CAU" group-title="Movie",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:0 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="English Movie",HBO HITS
+#EXTINF:0 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="Movie",HBO HITS
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:0 tvg-logo="https://www.seekpng.com/png/detail/223-2235478_hbo-signature-logo-hbo-signature-logo-png.png" group-title="English Movie",HBO Signature
+#EXTINF:0 tvg-logo="https://www.seekpng.com/png/detail/223-2235478_hbo-signature-logo-hbo-signature-logo-png.png" group-title="Movie",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:0 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="English Movie",HBO RED
+#EXTINF:0 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="Movie",HBO RED
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:0 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="English Movie",Zee Cafe HD
+#EXTINF:0 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="Movie",Zee Cafe HD
 #https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/index.m3u8
-#EXTINF:0 tvg-logo="https://www.likeetv.com/uploads/tv_image/and-flix-hd.jpg" group-title="English Movie",&Flix HD
+#EXTINF:0 tvg-logo="https://www.likeetv.com/uploads/tv_image/and-flix-hd.jpg" group-title="Movie",&Flix HD
 #https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="English Movie",& Prive HD
+#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="Movie",& Prive HD
 #https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="English Movie",AXN HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="Movie",AXN HD
 #http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
 http://210.210.155.35:80/dr9445/h/h141/01.m3u8
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="English Movie",Blue Ant Entertainment
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Movie",Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/01.m3u8
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="English Movie",Blue Ant Extreme
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Movie",Blue Ant Extreme
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
-#http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LRNcnxp/thrilllogo.png" group-title="English Movie", THRILL
+
+http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LRNcnxp/thrilllogo.png" group-title="Movie", THRILL
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="English Movie",Warner TV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Movie",Warner TV
 http://203.154.243.89:1205
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="English Movie",Cinemax
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="Movie",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdz0m0zuzeZw7Q91OhlLe0dKAIbPe7UxRBEA&usqp=CAU" group-title="English Movie",AL-Fajer Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdz0m0zuzeZw7Q91OhlLe0dKAIbPe7UxRBEA&usqp=CAU" group-title="Movie",AL-Fajer Movies
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="English Movie",Fox Life
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="Movie",Fox Life
 http://212.76.29.26:80/btv/SWM/FoxLife/FoxLife.m3u8
-#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.imgur.com/eKBXOKd.png",MBC 1 HD
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.imgur.com/eKBXOKd.png"group-title="Movie",MBC 1 HD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-#EXTINF:-1  group-title="English Movie" tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg",MY CINEMA
+#EXTINF:-1  group-title="English Movie" tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg"group-title="Movie",MY CINEMA
 http://210.210.155.35/session/55528460-d1c8-11eb-8209-c81f66f89318/uq2663/h/h90/S4/mnf.m3u8
 
 
