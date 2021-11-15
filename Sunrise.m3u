@@ -1,11 +1,11 @@
 #EXTM3U
 
-
-
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUOzFWXGMolJoElvCDwf14buD-IYioLY2VEQ&usqp=CAU" group-title="Bangladeshi", Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2nmEE5djHXQRsmr3ckhxAH0lc08_K3lOfjA&usqp=CAU" group-title="Bangladeshi", Meghna TV
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/ICC_Men%27s_T20_World_Cup_2021_logo.svg" group-title="Bangladeshi", World Cup T20 TV
-https://prod-fastly-ap-southeast-1.video.pscp.tv:443/Transcoding/v1/hls/vgJ7PvxEkmcqeBUVQSuREQnCZ_-KulnEsj_LYoEUGKBALWqLK933qsjBvrd1x0IZvWBTtyF6DscptpdbWsX50Q/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8I8frbkNP3xWJgQMdUJcjakLD-QLPrLpxg&usqp=CAU" group-title="Bangladeshi", KB TV
+https://iptv10.raytahost.com/stream/kbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1IALDL1iGKWKnC2hbv0AQ_di22l7G195KA&usqp=CAU" group-title="Bangladeshi",Jamuna TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi",Channel 24
