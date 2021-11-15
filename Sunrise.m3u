@@ -450,23 +450,28 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
  
 
 
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids", Nickelodeon Sonic
+http://58.27.219.166:8000/play/a06j/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Discovery Kids
 https://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png" group-title="Kids",Sony YAY
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/SonyYay.m3u8
 #http://5giptv.me:8880/34516317/55678974/325148
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" tvg-name="Nick"  group-title="Kids",Nick Bangla
-https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/Nick.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" tvg-name="Nick"  group-title="Kids", Nick+
+http://58.27.219.166:8000/play/a04z/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" tvg-name="Nick"  group-title="Kids", Nick
+http://58.27.219.166:8000/play/a06h/index.m3u8
+#https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/Nick.m3u8
 #https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" tvg-name="Nick"  group-title="Kids",Nick Pluto
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Nick-jr-logo.jpg" tvg-name="Nick"  group-title="Kids",Nick Jr.
 http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
-http://5giptv.me:8880/34516317/55678974/191562
+http://58.27.219.166:8000/play/a06f/index.m3u8
+#http://5giptv.me:8880/34516317/55678974/191562
 #EXTINF:-1 tvg-logo="https://artandgraft.com/assets/images/project-images/HD_POGO_logo.jpg" group-title="Kids", PoGo
-https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/pogo.m3u8
+http://58.27.219.166:8000/play/a06k/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_2.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",Cartoon Network English
