@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt3EQqG.jpg" group-title="Bangladeshi", Discovery Bangla TV
+https://last.gcdn.co/IND415/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt3EQqG.jpg" group-title="Bangladeshi", KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",Mohona Tv
