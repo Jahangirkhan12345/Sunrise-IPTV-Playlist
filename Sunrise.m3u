@@ -48,6 +48,36 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3MKb96krHP66HxwgnWoxv8txpTMR287aLA&usqp=CAU" group-title="Bangladeshi",BTV
 http://103.106.2.149:13456/btv.m3u8
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlhBM0NOwD7mCbTIwCTFwAnpjW5m8RX9FoMQ&usqp=CAU" group-title="Bangladeshi",51.ABP Ananda
+https://piratesiptv.shortcm.li/abp.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDrFzAP37Ph0nxgUKwirlRM4yPUDBwH-mv-w&usqp=CAU" group-title="Bangladeshi",52.Colors Bangla HD
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="Bangladeshi",53.Khusboo Bangla
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWczc1-EZUurrDu1gdpKCrRYzQ3yo0dD5QA&usqp=CAU" group-title="Bangladeshi",54.News 18 Bangla
+https://piratesiptv.shortcm.li/n18b.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7Kw8K5l7DD9w5q-tKtqyd9otDaQBgoRdig&usqp=CAU" group-title="Bangladeshi",55.R Plus Gold
+http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU" group-title="Bangladeshi",55.Sony Aath
+http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZLuYn_yx07dlZttoplkasgIaE7vqJw4gDYfEGLWzS_NOqy4BQ6wXJcA&s=10" group-title="Bangladeshi",56.Star Jalsha HD
+https://last.gcdn.co/IND391/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZLuYn_yx07dlZttoplkasgIaE7vqJw4gDYfEGLWzS_NOqy4BQ6wXJcA&s=10" group-title="Bangladeshi",56.Star Jalsha HD
+https://last.gcdn.co/IND392/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpGKOrjC_G_u-aPXXJABUm6UlHZaFAYKsDA&usqp=CAU" group-title="Bangladeshi",57.Star Jalsha Movies HD
+http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRplRD9IY6CQhf-knR6D52hdCmNLBp7bRPg&usqp=CAU" group-title="Bangladeshi",58.Sun Bangla
+https://last.gcdn.co/IND394/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU" group-title="Bangladeshi",59.Zee Bangla HD
+https://last.gcdn.co/IND390/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxZRa5mpvsrCgKxi732K7PGkKq2mt3SeMk3Q&usqp=CAU" group-title="Bangladeshi",59.Zee Bangla
+https://last.gcdn.co/IND389/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60N1o4i2GdcG4SM29IsrSF1LOsqc2fHselg&usqp=CAU" group-title="Bangladeshi",60.Zee Bangla Cinema
+https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="Bangladeshi",BTV World
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi",Sangsad Bangladesh
