@@ -73,9 +73,10 @@ http://58.27.219.166:8000/play/a0e1/index.m3u8
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRplRD9IY6CQhf-knR6D52hdCmNLBp7bRPg&usqp=CAU" group-title="Bangladeshi",58.Sun Bangla
 https://last.gcdn.co/IND394/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU" group-title="Bangladeshi",59.Zee Bangla HD
-https://last.gcdn.co/IND390/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxZRa5mpvsrCgKxi732K7PGkKq2mt3SeMk3Q&usqp=CAU" group-title="Bangladeshi",59.Zee Bangla
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU" group-title="Bangladeshi",59.Zee Bangla
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#https://last.gcdn.co/IND390/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxZRa5mpvsrCgKxi732K7PGkKq2mt3SeMk3Q&usqp=CAU" group-title="Bangladeshi",59.Zee Bangla HD
 https://last.gcdn.co/IND389/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60N1o4i2GdcG4SM29IsrSF1LOsqc2fHselg&usqp=CAU" group-title="Bangladeshi",60.Zee Bangla Cinema
 https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
