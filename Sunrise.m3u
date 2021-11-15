@@ -184,88 +184,81 @@ http://fingerme.dg21bd.com:80/TBN24/tracks-v1a1/mono.m3u8
 
 
 
-                            ** Hindi **
+                            **Movie**
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/2PxMp6d.png" group-title="Hindi",Sony HD
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2PxMp6d.png" group-title="Movies",Sony HD
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/SonyTV.m3u8 
 #http://50.7.69.66:8080/sonytv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
+#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Movies",Sony Max HD
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/SMax.m3u8
 #http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Hindi",Zee Cinema
+#EXTINF:0 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Movie",Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Hindi",Zee Cinema HD
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Movies",Zee Cinema HD
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="Hindi",STAR Gold HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="Movies",STAR Gold HD
 http://rv.flysat.live:80/ams/ams123/83711
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/193
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Hindi",Zee Action
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Movies",Zee Action
 #http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/O8OM5Eq.jpg" group-title="Hindi",UTV Action
+#EXTINF:0 tvg-logo="https://i.imgur.com/O8OM5Eq.jpg" group-title="Movies",UTV Action
 http://5giptv.me:8880/live/34516317/55678974/179148.m3u8
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="Hindi",Zee Anmol Cinema
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="Movies",Zee Anmol Cinema
 http://208.115.215.42/ZEE_Anm0l_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="Hindi",Zee BollyWood 
+#EXTINF:-1 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="Movies",Zee BollyWood 
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi",And Pictures HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Movies",And Pictures HD
 http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10622
-#EXTINF:0 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",And TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Movies",And TV
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2841
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="Hindi",Zing
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="Movies",Zing
 https://26gl.short.gy/Zing-by-DoraTv.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2854
-#EXTINF:0 tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Hindi",MBC Bollywood
+#EXTINF:0 tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Movies",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2019/04/rishtey-cineplex_1555156123.jpg" group-title="Hindi",Rishtey Cineplex
+#EXTINF:-1 tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2019/04/rishtey-cineplex_1555156123.jpg" group-title="Movies",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="Hindi",Colors Cineplex
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="Movies",Colors Cineplex
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.v4stream.com/upload/source/Raise%20tamilhd.png" group-title="Hindi",Rasi Movies
+#EXTINF:-1 tvg-logo="https://www.v4stream.com/upload/source/Raise%20tamilhd.png" group-title="Movies",Rasi Movies
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg" group-title="Hindi",Bflix Movies
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg" group-title="Movies",Bflix Movies
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
 #https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Movies",Zee TV
 https://26gl.short.gy/ZeeTvHd-by-DoraTv.m3u8
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi",Zee TV HD
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Movies",Zee TV HD
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/ZeeTvHd.m3u8
-#EXTINF:0 tvg-logo="https://www.nicepng.com/png/detail/5-54845_star-plus-star-plus-logo-png.png" group-title="Hindi",Star Plus
+#EXTINF:0 tvg-logo="https://www.nicepng.com/png/detail/5-54845_star-plus-star-plus-logo-png.png" group-title="Movies",Star Plus
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/f/f3/StarPlus_HD_2011.png" group-title="Hindi",Star Plus HD
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/f/f3/StarPlus_HD_2011.png" group-title="Movies",Star Plus HD
 http://rv.flysat.live:80/ams/ams123/83709
-#EXTINF:0 tvg-logo="https://www.adgully.com/img/800/202006/colors-rishtey_2.png.jpg" group-title="Hindi",Colors
+#EXTINF:0 tvg-logo="https://www.adgully.com/img/800/202006/colors-rishtey_2.png.jpg" group-title="Movies",Colors
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/ColorsHD.m3u8
 #http://mu03ye.wanicelife.com:8880/YALM4649/y6q3fhltq/1946
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi",Colors HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Movies",Colors HD
 http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Sab_TV.png" group-title="Hindi",Sony SAB
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Sab_TV.png" group-title="Movies",Sony SAB
 http://tvflixegc.hopto.org:1935/GECHindi/SONY_SAB.stream_720p/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://wagmaupload.com/images/live150_StarBihrat.png" group-title="Hindi",Star Bharat HD
+#EXTINF:-0 tvg-logo="http://wagmaupload.com/images/live150_StarBihrat.png" group-title="Movies",Star Bharat HD
 http://rv.flysat.live:80/ams/ams123/83712
 #http://mu03ye.wanicelife.com:8880/YALM4649/y6q3fhltq/28735
-#EXTINF:-1tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8045.QIndiaTV.in/1x1/1x/test_pic1588323963553.jpg" group-title="Hindi",The Q India
+#EXTINF:-1tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8045.QIndiaTV.in/1x1/1x/test_pic1588323963553.jpg" group-title="Movies",The Q India
 https://qyou-samsungindia.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/QYouSamsungIndia/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5LnfFQP.jpg" group-title="Hindi",DD Retro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LnfFQP.jpg" group-title="Movies",DD Retro
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7iXe1SOJ_ok9ZOsG-RWb1OI7H_QFoDJtYA&usqp=CAU" group-title="Hindi",Dabaang
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7iXe1SOJ_ok9ZOsG-RWb1OI7H_QFoDJtYA&usqp=CAU" group-title="Movies",Dabaang
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="Hindi",Box Cinema
+#EXTINF:0 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="Movies",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://static.epg.best/in/ManoranjanMovies.in.png" group-title="Hindi",Manoranjan Movies
+#EXTINF:0 tvg-logo="https://static.epg.best/in/ManoranjanMovies.in.png" group-title="Movies",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="Hindi",Maha Movie
+#EXTINF:0 tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="Movies",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqEw6PJ.jpg" group-title="Hindi",Anjan
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8 
-
-
-
-										
-																		 
-                                                                 **Movie**
- 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqEw6PJ.jpg" group-title="movies",Anjan
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8							
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhkMBQPxkG_r4D-mc8BZmmgq3KI32mTmFMA&usqp=CAU" group-title="Movie",&xplorHD
 https://snehz5tv.herokuapp.com?c=0-9-209
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png" group-title="Movie",&Pictures HD
