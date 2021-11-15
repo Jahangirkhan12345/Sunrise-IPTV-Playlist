@@ -62,8 +62,8 @@ https://piratesiptv.shortcm.li/n18b.m3u8
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU" group-title="Bangladeshi",Sony Aath
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZLuYn_yx07dlZttoplkasgIaE7vqJw4gDYfEGLWzS_NOqy4BQ6wXJcA&s=10" group-title="Bangladeshi",Star Jalsha HD
-https://last.gcdn.co/IND391/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoi3nCKcLZSd2Jvry1S6EiPEmPqzDsNQ0yEA&usqp=CAU" group-title="Bangladeshi",Star Jalsha
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZLuYn_yx07dlZttoplkasgIaE7vqJw4gDYfEGLWzS_NOqy4BQ6wXJcA&s=10" group-title="Bangladeshi",Star Jalsha HD
 https://last.gcdn.co/IND392/index.m3u8
 
@@ -73,9 +73,11 @@ http://58.27.219.166:8000/play/a0e1/index.m3u8
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRplRD9IY6CQhf-knR6D52hdCmNLBp7bRPg&usqp=CAU" group-title="Bangladeshi",Sun Bangla
 https://last.gcdn.co/IND394/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU" group-title="Bangladeshi",Zee Bangla
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxZRa5mpvsrCgKxi732K7PGkKq2mt3SeMk3Q&usqp=CAU" group-title="Bangladeshi",Zee Bangla
 http://103.109.56.116/live/skyfeed1004/index.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxZRa5mpvsrCgKxi732K7PGkKq2mt3SeMk3Q&usqp=CAU" group-title="Bangladeshi",Zee Bangla HD
+
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlLqE_aDp9FCAtOdMZ2aExkTQJLT8G8zIew&usqp=CAU" group-title="Bangladeshi",Zee Bangla HD
 https://last.gcdn.co/IND389/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60N1o4i2GdcG4SM29IsrSF1LOsqc2fHselg&usqp=CAU" group-title="Bangladeshi",Zee Bangla Cinema
 https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
