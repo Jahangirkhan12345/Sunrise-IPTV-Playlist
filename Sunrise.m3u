@@ -67,7 +67,7 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZLuYn_yx07dlZttoplkasgIaE7vqJw4gDYfEGLWzS_NOqy4BQ6wXJcA&s=10" group-title="Bangladeshi",Star Jalsha HD
 https://last.gcdn.co/IND392/index.m3u8
 
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="Bangladeshi",Star Jalsha Movies
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="Bangladeshi",Star Jalsha Movies HD
 http://58.27.219.166:8000/play/a0e1/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpGKOrjC_G_u-aPXXJABUm6UlHZaFAYKsDA&usqp=CAU" group-title="Bangladeshi",Star Jalsha Movies HD
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
