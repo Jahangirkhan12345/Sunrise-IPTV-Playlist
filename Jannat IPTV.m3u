@@ -5,8 +5,30 @@
 Live Sports Streaming online
 
 Channel
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDL4wAos-hK1dsgU7rwS8Gizr8mAS_qP6bg&usqp=CAU", Live Sports TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDL4wAos-hK1dsgU7rwS8Gizr8mAS_qP6bg&usqp=CAU", Live Sports TV 1
 https://ib.qqkkqqk.com/live/ch_2.m3u8
+
+PTV SPORTS🏏🏏
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+
+
+🔗Gazi TV🏏🏏
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+
+🔗SKY SPORTS CRICKET🏏SD🏏
+http://31.172.87.31:2200//EX/Sky_Sports_Cricket_SD-uk/tracks-v1a1/mono.m3u8?token=RED_6O0sNIOzlpndtDVu9xfEVg%3D%3D%2C1647656463.9659699029=|User-agent=REDLINECLIENT
+
+
+🔗SKY SPORTS CRICKET🏏FHD🏏
+http://31.172.87.31:2200//EX/Sky_Sports_Cricket_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_6O0sNIOzlpndtDVu9xfEVg%3D%3D%2C1647656463.9659699029=|User-agent=REDLINECLIENT
+
+🔗PTV SPORTS🏏🏏
+http://31.172.87.31:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_6O0sNIOzlpndtDVu9xfEVg%3D%3D%2C1647656463.9659699029=|User-agent=REDLINECLIENT
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDL4wAos-hK1dsgU7rwS8Gizr8mAS_qP6bg&usqp=CAU", Live Sports TV 2
+https:/prod/-ec-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/Lt8ZlZpDFLk_ZgjcyxrTsXXDPvxO5ecvO32eAfYAWmOH0Dmne906JU22gbUKoi1XG03xXF95JDlSvah3K3X9-w/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAu8gMvdvwF4poErMwzzPJiZbb-2k079Mbg&usqp=CAU", Rabbitholebd Sports
 https://prod-ec-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/4L6SBS86yMd8wJsLPH1GP0TzQk96aYQTCPZNK5xdNz2iZtLbzGZ6cmbMAicMDAugDAL4zggZl1GBQvp57lTh0g/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
