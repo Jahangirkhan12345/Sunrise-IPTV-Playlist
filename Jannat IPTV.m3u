@@ -5,12 +5,21 @@
 Live Sports Streaming online
 
 Channel
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDL4wAos-hK1dsgU7rwS8Gizr8mAS_qP6bg&usqp=CAU", Live Sports TV 1
-https://ib.qqkkqqk.com/live/ch_2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDL4wAos-hK1dsgU7rwS8Gizr8mAS_qP6bg&usqp=CAU", IPL T20 HD 1
+http://diokz91u21fy1.cloudfront.net/iplch1/2022/master/720/20220329.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDL4wAos-hK1dsgU7rwS8Gizr8mAS_qP6bg&usqp=CAU", IPL STAR SPORTS 1
+http://31.172.87.31:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_JKqUDidNKbONPNHscznWng%3D%3D%2C1648584209.9659699029=|User-agent=REDLINECLIENT
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDL4wAos-hK1dsgU7rwS8Gizr8mAS_qP6bg&usqp=CAU", IPL SKY SPORTS
+http://31.172.87.31:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=RED_JKqUDidNKbONPNHscznWng%3D%3D%2C1648584209.9659699029=|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDL4wAos-hK1dsgU7rwS8Gizr8mAS_qP6bg&usqp=CAU", P Sports TV
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDL4wAos-hK1dsgU7rwS8Gizr8mAS_qP6bg&usqp=CAU", Fox Sports TV
+https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/weh-yYGsMm8FKcdkX0iKoSe5y1Cd2BFT7sTYG6dxzuXHrQ_TCukernYV89LjNaAY-Tmh4ZOsOwrF5z42vTpXhw/transcode/us-west-2/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDL4wAos-hK1dsgU7rwS8Gizr8mAS_qP6bg&usqp=CAU", Gazi TV
