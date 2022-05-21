@@ -2,50 +2,6 @@
 
             *********Second Sunrise ******
 
-Live Sports Streaming online
-
-Channel
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoN1nNgCt6X6r2lCBQx4zNwGtYlv_4lPeuA&usqp=CAU", IPL T20 HD 1
-http://diokz91u21fy1.cloudfront.net/iplch1/2022/master/720/20220329.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoN1nNgCt6X6r2lCBQx4zNwGtYlv_4lPeuA&usqp=CAU", IPL STAR SPORTS 1
-http://31.172.87.31:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_JKqUDidNKbONPNHscznWng%3D%3D%2C1648584209.9659699029=|User-agent=REDLINECLIENT
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoN1nNgCt6X6r2lCBQx4zNwGtYlv_4lPeuA&usqp=CAU", IPL SKY SPORTS
-http://31.172.87.31:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=RED_JKqUDidNKbONPNHscznWng%3D%3D%2C1648584209.9659699029=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoN1nNgCt6X6r2lCBQx4zNwGtYlv_4lPeuA&usqp=CAU", P Sports TV
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoN1nNgCt6X6r2lCBQx4zNwGtYlv_4lPeuA&usqp=CAU", Fox Sports TV
-https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/weh-yYGsMm8FKcdkX0iKoSe5y1Cd2BFT7sTYG6dxzuXHrQ_TCukernYV89LjNaAY-Tmh4ZOsOwrF5z42vTpXhw/transcode/us-west-2/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDL4wAos-hK1dsgU7rwS8Gizr8mAS_qP6bg&usqp=CAU", Gazi TV
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoN1nNgCt6X6r2lCBQx4zNwGtYlv_4lPeuA&usqp=CAU", SKY SPORTS CRICKET SD
-http://31.172.87.31:2200//EX/Sky_Sports_Cricket_SD-uk/tracks-v1a1/mono.m3u8?token=RED_6O0sNIOzlpndtDVu9xfEVg%3D%3D%2C1647656463.9659699029=|User-agent=REDLINECLIENT
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoN1nNgCt6X6r2lCBQx4zNwGtYlv_4lPeuA&usqp=CAU", SKY SPORTS CRICKET FHD
-http://31.172.87.31:2200//EX/Sky_Sports_Cricket_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_6O0sNIOzlpndtDVu9xfEVg%3D%3D%2C1647656463.9659699029=|User-agent=REDLINECLIENT
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoN1nNgCt6X6r2lCBQx4zNwGtYlv_4lPeuA&usqp=CAU", PTV SPORTS
-http://31.172.87.31:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_6O0sNIOzlpndtDVu9xfEVg%3D%3D%2C1647656463.9659699029=|User-agent=REDLINECLIENT
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoN1nNgCt6X6r2lCBQx4zNwGtYlv_4lPeuA&usqp=CAU", Live Sports TV 2
-https:/prod/-ec-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/Lt8ZlZpDFLk_ZgjcyxrTsXXDPvxO5ecvO32eAfYAWmOH0Dmne906JU22gbUKoi1XG03xXF95JDlSvah3K3X9-w/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAu8gMvdvwF4poErMwzzPJiZbb-2k079Mbg&usqp=CAU", Rabbitholebd Sports
-https://prod-ec-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/4L6SBS86yMd8wJsLPH1GP0TzQk96aYQTCPZNK5xdNz2iZtLbzGZ6cmbMAicMDAugDAL4zggZl1GBQvp57lTh0g/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
-
 <!-- Bangladeshi -- >
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png", Anando Tv
